@@ -1,11 +1,3 @@
-/*
- Author: Ukieweb
- Template: Balk (Coming Soon)
- Version: 1.2
- URL: http://themeforest.net/user/UkieWeb
- */
-
-
 $(document).ready(function() {
 
     "use strict";
@@ -47,7 +39,7 @@ $(document).ready(function() {
             targetDate: {
                 'day': 25,
                 'month': 5,
-                'year': 2018,
+                'year': 2017,
                 'hour': 11,
                 'min': 13,
                 'sec': 0
